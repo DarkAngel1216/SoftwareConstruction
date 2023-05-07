@@ -1,0 +1,24 @@
+body {
+    direction: rtl;
+    margin: 15px;
+    background-image: url('');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.container{
+    width: 50%;
+}
+label{
+    margin: 10px;
+}
+h4 {
+    margin: inherit;
+    text-align: right;
+    
+}
+label{
+    font-family: "Open Sans";
+}
